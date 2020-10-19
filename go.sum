@@ -2,8 +2,13 @@ github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/fauna/faunadb-go v1.0.0 h1:WeveMTvi99E3RkJHNuMeJ1zD4Z0bXb3NT6/854HV6XU=
 github.com/fauna/faunadb-go v2.0.0+incompatible h1:b+iaebxQ37qQtQCEYpfatxeZVF+L0HTBTTrCMcV8itI=
 github.com/fauna/faunadb-go v2.0.0+incompatible/go.mod h1:WYAh1hNDFEgbsKKeUhsHPGIFkpQ1CGn/5XejAFfOhHg=
+github.com/fauna/faunadb-go/v3 v3.0.0 h1:jb7I54xQMdpweUCVIDaDqeNN0V1cL6DxyIjlNFjYlho=
+github.com/fauna/faunadb-go/v3 v3.0.0/go.mod h1:uvmCKyBMvdHFO7gigqjt0lZNuMcmutvx9d2pJZBMFZY=
+github.com/hardselius/faunadb-go v2.0.0+incompatible h1:TaF66+iB3wPYMtuRZH6MPBNfqhH4iOnGicofcCPZu2I=
+github.com/hardselius/faunadb-go v2.0.0+incompatible/go.mod h1:6gh6+YZYy0893L7cgWbZq2s7J9nc7ogp6eoowrnYY80=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0 h1:4G4v2dO3VZwixGIRoQ5Lfboy6nUhCyYzaqnIAPPhYs4=

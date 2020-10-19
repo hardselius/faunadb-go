@@ -2,7 +2,6 @@ package faunadb
 
 import (
 	"bytes"
-	"encoding/base64"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -350,6 +349,7 @@ func parseTxnTimeHeader(header http.Header) (txnTime int64, err error) {
 }
 
 func basicAuth(secret string) string {
-	encoded := base64.StdEncoding.EncodeToString([]byte(secret + ":"))
-	return fmt.Sprintf("Basic %s", encoded)
+	// encoded := base64.StdEncoding.EncodeToString([]byte(secret + ":"))
+	// return fmt.Sprintf("Basic %s", encoded)
+	return fmt.Sprintf("Bearer %s", secret)
 }
